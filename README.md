@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Mariana Rodrigues!
 
 <div align="justify">
-🎓 Estudante no 4º periodo de Engenharia da Computação no CEFET-MG, CAMPUS V. <br>
+🎓 Estudante no 5º periodo de Engenharia da Computação no CEFET-MG, CAMPUS V. <br>
 📚 Explorando as linguagens C e C++. <br><br>
   
 </div>
